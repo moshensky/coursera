@@ -4,10 +4,10 @@ import java.util.NoSuchElementException;
 
 public class Stack<Item> implements Iterable<Item>
 {
-    private Node first; // top of stack
-    private int N;      // number of items
+    protected Node first; // top of stack
+    protected int N;      // number of items
     
-    private class Node
+    protected class Node
     {
         Item item;
         Node next;
