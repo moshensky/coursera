@@ -8,29 +8,30 @@
  */
 public class DoublyLinkedList<Item>
 {
-    DoubleNode first;
+    private DoubleNode<Item> first;
     
-    class DoubleNode
+    private static class DoubleNode<T>
     {
-        Item item;
+        T item;
         DoubleNode previous;
         DoubleNode next;
      
-    
+        
+        // insert at the end
+        public static void insertAtEnd(T node)
+        {
+            
+        }
     
     }
-    
+
     // insert at the beginning
-    public static void insertAtBeginning(DoublyLinkedList list)
-    {
-        DoubleNode list.first;
-    }
-    
-    // insert at the end
-    public static void insertAtEnd(DoubleNode node)
+    public static void insertAtBeginning(Item item)
     {
         
     }
+    
+    
     // remove from the beginning
     
     
