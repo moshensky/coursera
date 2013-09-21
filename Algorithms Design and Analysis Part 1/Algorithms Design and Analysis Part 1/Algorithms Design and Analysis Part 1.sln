@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 1 Mergesort", "Week 1 Mergesort\Week 1 Mergesort.csproj", "{F2F5003A-2DCF-4947-954E-8BB70C84DA77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week 1 Inversion Counting", "Week 1 Inversion Counting\Week 1 Inversion Counting.csproj", "{692CCF5F-26AD-472E-8C4A-D8ED39A2673B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2F5003A-2DCF-4947-954E-8BB70C84DA77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F5003A-2DCF-4947-954E-8BB70C84DA77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F5003A-2DCF-4947-954E-8BB70C84DA77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F5003A-2DCF-4947-954E-8BB70C84DA77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692CCF5F-26AD-472E-8C4A-D8ED39A2673B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692CCF5F-26AD-472E-8C4A-D8ED39A2673B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692CCF5F-26AD-472E-8C4A-D8ED39A2673B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692CCF5F-26AD-472E-8C4A-D8ED39A2673B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
